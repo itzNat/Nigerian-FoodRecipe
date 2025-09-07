@@ -70,7 +70,7 @@
         "Simmer for 15-20 minutes",
         "Serve with pounded yam or eba."
       ],
-      "strMealThumb": "https://www.allnigerianrecipes.com/wp-content/uploads/2022/11/festive-nigerian-egusi-soup-768x403.jpg",
+      "strMealThumb": "https://demandafrica.com/wp-content/uploads/2017/06/EgusiSoup-e1533238405501.jpg",
       "strTags": "Soup, Traditional, Nutty",
   
       "strIngredient": [
@@ -115,7 +115,7 @@
         "Add small amounts of water if too thick.",
         "Serve immediately with soup."
       ],
-      "strMealThumb": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/pounded-yam.png",
+      "strMealThumb": "https://thfvnext.bing.com/th/id/OIP.Iin20_k3jl87TGP9J4SI8gHaGL?w=196&h=180&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3",
       "strTags": "Swallow, Starchy, Traditional",
   
       "strIngredient": [
@@ -144,7 +144,7 @@
         "Grill over charcoal until cooked.",
         "Serve with sliced onions and tomatoes."
       ],
-      "strMealThumb": "https://www.example.com/images/suya.jpg",
+      "strMealThumb": "https://thfvnext.bing.com/th/id/OIP.UuAGot6gABDOP9MHy_XTCwHaE7?w=290&h=193&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3",
       "strTags": "Grilled, Spicy, StreetFood",
   
       "strIngredient": [
@@ -183,7 +183,7 @@
         "Steam for 45-60 minutes.",
         "Serve warm."
       ],
-      "strMealThumb": "https://www.example.com/images/moi-moi.jpg",
+      "strMealThumb": "https://thfvnext.bing.com/th/id/OIP.ZrWTRcEEvU9_ZwJ1H4aFDgHaEc?w=276&h=180&c=7&r=0&o=5&cb=thfvnext&pid=1.7",
       "strTags": "Steamed, Protein, Vegetarian",
   
       "strIngredient1": [
@@ -227,7 +227,7 @@
         "Cook on low heat for 10-15 minutes.",
         "Garnish with spring onions and serve hot."
       ],
-      "strMealThumb": "https://www.example.com/images/nigerian-fried-rice.jpg",
+      "strMealThumb": "https://tse3.mm.bing.net/th/id/OIP.DfQBXlhtXjgEKqjHTls0RwHaE7?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
       "strTags": "Rice, Party, Colorful",
   
       "strIngredient": [
@@ -275,7 +275,7 @@
       "strCategory": "Swallow",
       "strArea": "Nigerian",
       "strInstructions": ["Bring water to boil in a pot.", "Gradually add garri (cassava flakes) while stirring continuously.", "Keep stirring until smooth and lump-free.", "Add more garri if too soft or water if too hard.", "Knead into a smooth dough.", "Serve immediately with soup."],
-      "strMealThumb": "https://www.example.com/images/eba.jpg",
+      "strMealThumb": "https://thfvnext.bing.com/th/id/OIP.KWBf7ZYBZ_fR-omp5ryZ7AHaE8?w=278&h=186&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3",
       "strTags": "Swallow, Cassava, Staple",
   
       "strIngredient": [
@@ -297,7 +297,7 @@
       "strCategory": "Soup",
       "strArea": "Nigerian",
       "strInstructions": ["Heat palm oil in a pot.", "Add ground ogbono seeds and stir continuously to prevent lumps.", "Add stock and bring to simmer.", "Add cooked meat, fish, and seasonings.", "Add chopped vegetables (okra or spinach).", "Simmer for 10 minutes.", "Serve with eba or pounded yam."],
-      "strMealThumb": "https://www.example.com/images/ogbono-soup.jpg",
+      "strMealThumb": "https://tse1.mm.bing.net/th/id/OIP.HyQKfUE4HF7213Wa8LwPxgHaFa?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
       "strTags": "Soup, Draw Soup, Traditional",
   
       "strIngredient": [
@@ -339,7 +339,7 @@
       "strCategory": "Soup",
       "strArea": "Nigerian",
       "strInstructions": ["Cook palm fruit concentrate with water for 30 minutes.", "Add cooked meat, fish, and seasonings.", "Add ground crayfish and pepper.", "Add chopped vegetables (uziza or bitter leaf).", "Simmer for 15 minutes.", "Serve with white rice or fufu."],
-      "strMealThumb": "https://www.example.com/images/black-soup.jpg",
+      "strMealThumb": "https://th.bing.com/th/id/R.96394346927fd7a65c84bfc7f2ba0b25?rik=Nm4GnIdCvzULcw&riu=http%3a%2f%2fallnigerianfoods.com%2fwp-content%2fuploads%2f2015%2f04%2fblack-soup.jpg&ehk=jxRoeC4fP5%2foK8MIo%2f8OlVV%2fj3Ejd2LFEO7xVdfAQpU%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
       "strTags": "Soup, Palm Fruit, Traditional",
   
       "strIngredient": [
@@ -368,8 +368,6 @@
         "to taste",
         "1 medium"
       ],
-      
-
       "dateModified": "2022-08-22"
     },
     {
@@ -379,7 +377,7 @@
       "strCategory": "Soup",
       "strArea": "Nigerian",
       "strInstructions": ["Chop okra into small pieces.", "Heat palm oil and sauté onions.", "Add stock and bring to boil.", "Add okra and cook for 5 minutes.", "Add cooked meat, fish, and seasonings.", "Add crayfish and pepper.", "Simmer for 10 minutes.", "Serve with eba or fufu."],
-      "strMealThumb": "https://www.example.com/images/okro-soup.jpg",
+      "strMealThumb": "https://tse1.mm.bing.net/th/id/OIP.WvfLh8eyfvFGTzc04Gh6hQHaEK?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
       "strTags": "Soup, Slimy, Vegetable",
   
       "strIngredient": [
@@ -413,362 +411,361 @@
       "dateModified": "2022-08-22"
     },
     {
-  "idMeal": "011",
-  "strMeal": "Pepper Soup",
-  "strDrinkAlternate": null,
-  "strCategory": "Soup",
-  "strArea": "Nigerian",
-  "strInstructions": ["Wash and cut meat or fish into chunks.", "Place in a pot, add chopped onions, salt, and water. Boil until tender.", "Add pepper soup spice mix, ground crayfish, and chopped scent leaves (effirin).", "Add habanero peppers (to taste) and simmer for 10-15 minutes until broth is flavorful and slightly spicy.", "Adjust seasoning with seasoning cubes if needed.", "Serve hot in a bowl."],
-  "strMealThumb": "https://www.example.com/images/pepper-soup.jpg",
-  "strTags": "Spicy, Light, Appetizer",
-  "strIngredient": [
-    "Goat Meat",
-    "Water",
-    "Pepper Soup Spice Mix (Uda, Ehuru)",
-    "Habanero Pepper",
-    "Onions",
-    "Crayfish",
-    "Scent Leaves (Effirin)",
-    "Seasoning Cubes",
-    "Salt"
-  ],
-  "strMeasure": [
-    "1 kg",
-    "6 cups",
-    "2 tbsp",
-    "to taste",
-    "1 medium",
-    "1 tbsp",
-    "1 handful",
-    "2 cubes",
-    "to taste"
-  ],
+    "idMeal": "011",
+    "strMeal": "Pepper Soup",
+    "strDrinkAlternate": null,
+    "strCategory": "Soup",
+    "strArea": "Nigerian",
+    "strInstructions": ["Wash and cut meat or fish into chunks.", "Place in a pot, add chopped onions, salt, and water. Boil until tender.", "Add pepper soup spice mix, ground crayfish, and chopped scent leaves (effirin).", "Add habanero peppers (to taste) and simmer for 10-15 minutes until broth is flavorful and slightly spicy.", "Adjust seasoning with seasoning cubes if needed.", "Serve hot in a bowl."],
+    "strMealThumb": "https://th.bing.com/th/id/R.935fa7558f71879c7f57ddd88b34bdba?rik=WrJOnvsXFHhd0Q&pid=ImgRaw&r=0",
+    "strTags": "Spicy, Light, Appetizer",
+    "strIngredient": [
+      "Goat Meat",
+      "Water",
+      "Pepper Soup Spice Mix (Uda, Ehuru)",
+      "Habanero Pepper",
+      "Onions",
+      "Crayfish",
+      "Scent Leaves (Effirin)",
+      "Seasoning Cubes",
+      "Salt"
+    ],
+    "strMeasure": [
+      "1 kg",
+      "6 cups",
+      "2 tbsp",
+      "to taste",
+      "1 medium",
+      "1 tbsp",
+      "1 handful",
+      "2 cubes",
+      "to taste"
+    ],
 
-  "dateModified": "2022-08-22"
-},
-    {
-  "idMeal": "012",
-  "strMeal": "Oha Soup",
-  "strDrinkAlternate": null,
-  "strCategory": "Soup",
-  "strArea": "Nigerian",
-  "strInstructions": ["Prepare the cocoyam paste by boiling and peeling cocoyam, then mashing into a smooth paste.", "Boil meat and stockfish until tender. Keep the stock.", "Heat palm oil in a pot, sauté onions briefly.", "Add the meat stock and bring to a boil.", "Dissolve the cocoyam paste in a little water and add to the pot to thicken the soup.", "Add cooked meat, stockfish, crayfish, and pepper.", "Stir in grated ogiri okpei (optional).", "Add sliced oha leaves and simmer for 3-5 minutes.", "Adjust seasoning with salt and seasoning cubes.", "Serve with eba, fufu, or pounded yam."],
-  "strMealThumb": "https://www.example.com/images/oha-soup.jpg",
-  "strTags": "Igbo, Nutritious, Aromatic",
-  "strIngredient": [
-    "Oha Leaves",
-    "Cocoyam",
-    "Palm Oil",
-    "Assorted Meat & Stockfish",
-    "Crayfish",
-    "Pepper",
-    "Onions",
-    "Ogiri Okpei",
-    "Seasoning Cubes",
-    "Salt",
-    "Stock"
-  ],
-  "strMeasure": [
-    "2 cups shredded",
-    "5-7 tubers",
-    "1/2 cup",
-    "500g",
-    "2 tbsp",
-    "to taste",
-    "1 medium",
-    "1 tsp",
-    "2 cubes",
-    "to taste",
-    "4 cups"
-  ],
+    "dateModified": "2022-08-22"
+  },
+      {
+    "idMeal": "012",
+    "strMeal": "Oha Soup",
+    "strDrinkAlternate": null,
+    "strCategory": "Soup",
+    "strArea": "Nigerian",
+    "strInstructions": ["Prepare the cocoyam paste by boiling and peeling cocoyam, then mashing into a smooth paste.", "Boil meat and stockfish until tender. Keep the stock.", "Heat palm oil in a pot, sauté onions briefly.", "Add the meat stock and bring to a boil.", "Dissolve the cocoyam paste in a little water and add to the pot to thicken the soup.", "Add cooked meat, stockfish, crayfish, and pepper.", "Stir in grated ogiri okpei (optional).", "Add sliced oha leaves and simmer for 3-5 minutes.", "Adjust seasoning with salt and seasoning cubes.", "Serve with eba, fufu, or pounded yam."],
+    "strMealThumb": "https://tse1.mm.bing.net/th/id/OIP.JgHjqzE-GCTQ7eL-_-2jIQHaGl?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "strTags": "Igbo, Nutritious, Aromatic",
+    "strIngredient": [
+      "Oha Leaves",
+      "Cocoyam",
+      "Palm Oil",
+      "Assorted Meat & Stockfish",
+      "Crayfish",
+      "Pepper",
+      "Onions",
+      "Ogiri Okpei",
+      "Seasoning Cubes",
+      "Salt",
+      "Stock"
+    ],
+    "strMeasure": [
+      "2 cups shredded",
+      "5-7 tubers",
+      "1/2 cup",
+      "500g",
+      "2 tbsp",
+      "to taste",
+      "1 medium",
+      "1 tsp",
+      "2 cubes",
+      "to taste",
+      "4 cups"
+    ],
 
-  "dateModified": "2022-08-22"
-},
-    {
-  "idMeal": "013",
-  "strMeal": "Banga Soup",
-  "strDrinkAlternate": null,
-  "strCategory": "Soup",
-  "strArea": "Nigerian",
-  "strInstructions": ["Wash the palm nuts and boil in a pot of water for 30 minutes until soft.", "Pound or blend the nuts slightly and return to the pot with water. Simmer and extract the palm fruit concentrate (banga juice). Strain and set aside.", "Heat the banga juice in a pot until it boils.", "Add chopped onions, beletientien leaves, oburunbebe stick, and dried fish.", "Add cooked meat, pepper, and seasoning cubes. Let it simmer for 10 minutes.", "Add the crushed scent leaves and simmer for another 5 minutes.", "Add the banga spice mix (banga soup spice) and salt to taste.", "Serve with starch, eba, or semovita."],
-  "strMealThumb": "https://www.example.com/images/banga-soup.jpg",
-  "strTags": "Delta, Palm Fruit, Aromatic",
-  "strIngredient": [
-    "Palm Nuts",
-    "Beletientien Leaves",
-    "Scent Leaves",
-    "Oburunbebe Stick",
-    "Assorted Meat",
-    "Dry Fish",
-    "Banga Spice Mix",
-    "Pepper",
-    "Onions",
-    "Seasoning Cubes",
-    "Salt"
-  ],
-  "strMeasure": [
-    "1 kg",
-    "1/2 cup",
-    "1/4 cup",
-    "1 piece",
-    "300g",
-    "100g",
-    "2 tbsp",
-    "to taste",
-    "1 medium",
-    "2 cubes",
-    "to taste"
-  ],
+    "dateModified": "2022-08-22"
+  },
+  {
+    "idMeal": "013",
+    "strMeal": "Banga Soup",
+    "strDrinkAlternate": null,
+    "strCategory": "Soup",
+    "strArea": "Nigerian",
+    "strInstructions": ["Wash the palm nuts and boil in a pot of water for 30 minutes until soft.", "Pound or blend the nuts slightly and return to the pot with water. Simmer and extract the palm fruit concentrate (banga juice). Strain and set aside.", "Heat the banga juice in a pot until it boils.", "Add chopped onions, beletientien leaves, oburunbebe stick, and dried fish.", "Add cooked meat, pepper, and seasoning cubes. Let it simmer for 10 minutes.", "Add the crushed scent leaves and simmer for another 5 minutes.", "Add the banga spice mix (banga soup spice) and salt to taste.", "Serve with starch, eba, or semovita."],
+    "strMealThumb": "https://th.bing.com/th/id/R.6ba7ddecef0371bf3e2d9391ecf7014c?rik=dgYrC1TaNWjsKg&pid=ImgRaw&r=0&sres=1&sresct=1",
+    "strTags": "Delta, Palm Fruit, Aromatic",
+    "strIngredient": [
+      "Palm Nuts",
+      "Beletientien Leaves",
+      "Scent Leaves",
+      "Oburunbebe Stick",
+      "Assorted Meat",
+      "Dry Fish",
+      "Banga Spice Mix",
+      "Pepper",
+      "Onions",
+      "Seasoning Cubes",
+      "Salt"
+    ],
+    "strMeasure": [
+      "1 kg",
+      "1/2 cup",
+      "1/4 cup",
+      "1 piece",
+      "300g",
+      "100g",
+      "2 tbsp",
+      "to taste",
+      "1 medium",
+      "2 cubes",
+      "to taste"
+    ],
 
-  "dateModified": "2022-08-22"
-},
-    {
-  "idMeal": "014",
-  "strMeal": "Bitterleaf Soup",
-  "strDrinkAlternate": null,
-  "strCategory": "Soup",
-  "strArea": "Nigerian",
-  "strInstructions": ["Wash the bitterleaf thoroughly to remove bitterness (or use pre-washed).", "Boil meat and stockfish until tender. Keep the stock.", "Heat palm oil in a pot, sauté onions.", "Add the meat stock and bring to a boil.", "Dissolve the cocoyam paste in water and add to the pot to thicken the soup.", "Add cooked meat, stockfish, crayfish, and pepper.", "Stir in ogiri okpei.", "Add the washed bitterleaf and let it simmer for 5 minutes.", "Adjust seasoning with salt and seasoning cubes.", "Serve with eba, fufu, or pounded yam."],
-  "strMealThumb": "https://www.example.com/images/bitterleaf-soup.jpg",
-  "strTags": "Igbo, Bitter, Nutritious",
-  "strIngredient": [
-    "Bitterleaf",
-    "Cocoyam",
-    "Palm Oil",
-    "Assorted Meat & Stockfish",
-    "Crayfish",
-    "Pepper",
-    "Onions",
-    "Ogiri Okpei",
-    "Seasoning Cubes",
-    "Salt",
-    "Stock"
-  ],
-  "strMeasure": [
-    "2 cups washed",
-    "5-7 tubers",
-    "1/2 cup",
-    "500g",
-    "2 tbsp",
-    "to taste",
-    "1 medium",
-    "1 tsp",
-    "2 cubes",
-    "to taste",
-    "4 cups"
-  ],
+    "dateModified": "2022-08-22"
+  },
+      {
+    "idMeal": "014",
+    "strMeal": "Bitterleaf Soup",
+    "strDrinkAlternate": null,
+    "strCategory": "Soup",
+    "strArea": "Nigerian",
+    "strInstructions": ["Wash the bitterleaf thoroughly to remove bitterness (or use pre-washed).", "Boil meat and stockfish until tender. Keep the stock.", "Heat palm oil in a pot, sauté onions.", "Add the meat stock and bring to a boil.", "Dissolve the cocoyam paste in water and add to the pot to thicken the soup.", "Add cooked meat, stockfish, crayfish, and pepper.", "Stir in ogiri okpei.", "Add the washed bitterleaf and let it simmer for 5 minutes.", "Adjust seasoning with salt and seasoning cubes.", "Serve with eba, fufu, or pounded yam."],
+    "strMealThumb": "https://tse3.mm.bing.net/th/id/OIP.lLOI6wMpcqeZhhHk7XB80QHaEV?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "strTags": "Igbo, Bitter, Nutritious",
+    "strIngredient": [
+      "Bitterleaf",
+      "Cocoyam",
+      "Palm Oil",
+      "Assorted Meat & Stockfish",
+      "Crayfish",
+      "Pepper",
+      "Onions",
+      "Ogiri Okpei",
+      "Seasoning Cubes",
+      "Salt",
+      "Stock"
+    ],
+    "strMeasure": [
+      "2 cups washed",
+      "5-7 tubers",
+      "1/2 cup",
+      "500g",
+      "2 tbsp",
+      "to taste",
+      "1 medium",
+      "1 tsp",
+      "2 cubes",
+      "to taste",
+      "4 cups"
+    ],
 
-  "dateModified": "2022-08-22"
-},
-    {
-  "idMeal": "015",
-  "strMeal": "Edikaikong Soup",
-  "strDrinkAlternate": null,
-  "strCategory": "Soup",
-  "strArea": "Nigerian",
-  "strInstructions": ["Wash and slice the waterleaf and squeeze out excess water. Shred the pumpkin leaves (ugu).", "Boil the assorted meat and offal with onions and seasoning cubes until tender. Keep the stock.", "Heat palm oil in a large pot, sauté remaining onions.", "Add the meat stock and bring to a boil.", "Add the cooked meat and offal. Add ground crayfish and pepper.", "Let it boil for 5 minutes, then add the waterleaf. Cook for another 10 minutes.", "Add the shredded pumpkin leaves (ugu) and periwinkles.", "Stir well and let it simmer for 5-7 minutes. Do not overcook after adding ugu.", "Adjust seasoning with salt and seasoning cubes if needed. The soup should be thick.", "Serve with eba, fufu, or pounded yam."],
-  "strMealThumb": "https://www.example.com/images/edikaikong-soup.jpg",
-  "strTags": "Efik, Nutritious, Vegetable",
-  "strIngredient": [
-    "Pumpkin Leaves (Ugu)",
-    "Waterleaf",
-    "Palm Oil",
-    "Assorted Meat & Offal",
-    "Periwinkles",
-    "Crayfish",
-    "Pepper",
-    "Onions",
-    "Seasoning Cubes",
-    "Salt",
-    "Stock"
-  ],
-  "strMeasure": [
-    "4 cups shredded",
-    "3 cups sliced",
-    "3/4 cup",
-    "500g",
-    "1 cup",
-    "3 tbsp",
-    "to taste",
-    "2 medium",
-    "3 cubes",
-    "to taste",
-    "2 cups"
-  ],
+    "dateModified": "2022-08-22"
+  },
+      {
+    "idMeal": "015",
+    "strMeal": "Edikaikong Soup",
+    "strDrinkAlternate": null,
+    "strCategory": "Soup",
+    "strArea": "Nigerian",
+    "strInstructions": ["Wash and slice the waterleaf and squeeze out excess water. Shred the pumpkin leaves (ugu).", "Boil the assorted meat and offal with onions and seasoning cubes until tender. Keep the stock.", "Heat palm oil in a large pot, sauté remaining onions.", "Add the meat stock and bring to a boil.", "Add the cooked meat and offal. Add ground crayfish and pepper.", "Let it boil for 5 minutes, then add the waterleaf. Cook for another 10 minutes.", "Add the shredded pumpkin leaves (ugu) and periwinkles.", "Stir well and let it simmer for 5-7 minutes. Do not overcook after adding ugu.", "Adjust seasoning with salt and seasoning cubes if needed. The soup should be thick.", "Serve with eba, fufu, or pounded yam."],
+    "strMealThumb": "https://tse3.mm.bing.net/th/id/OIP.ohm0ou3vbsB0YP-c8YXq-QHaIW?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "strTags": "Efik, Nutritious, Vegetable",
+    "strIngredient": [
+      "Pumpkin Leaves (Ugu)",
+      "Waterleaf",
+      "Palm Oil",
+      "Assorted Meat & Offal",
+      "Periwinkles",
+      "Crayfish",
+      "Pepper",
+      "Onions",
+      "Seasoning Cubes",
+      "Salt",
+      "Stock"
+    ],
+    "strMeasure": [
+      "4 cups shredded",
+      "3 cups sliced",
+      "3/4 cup",
+      "500g",
+      "1 cup",
+      "3 tbsp",
+      "to taste",
+      "2 medium",
+      "3 cubes",
+      "to taste",
+      "2 cups"
+    ],
 
-  "dateModified": "2022-08-22"
-},
-{
-  "idMeal": "016",
-  "strMeal": "Fufu",
-  "strDrinkAlternate": null,
-  "strCategory": "Swallow",
-  "strArea": "Nigerian",
-  "strInstructions": ["Peel, wash, and cut cassava and plantains into chunks.", "Place in a pot, add water to cover, and boil until very tender.", "Drain the water completely.", "Transfer the cooked cassava and plantain to a mortar.", "Pound vigorously with a pestle until smooth, sticky, and stretchy. (Alternatively, use a stand mixer with a dough hook).", "While pounding, have an assistant turn the dough continuously for a consistent texture.", "Form into smooth balls and serve immediately with any Nigerian soup."],
-  "strMealThumb": "https://www.example.com/images/fufu.jpg",
-  "strTags": "Swallow, Starchy, Stretchy",
-  "strIngredient": [
-    "Cassava",
-    "Unripe Plantains",
-    "Water"
-  ],
-  "strMeasure": [
-    "1 kg",
-    "2 medium",
-    "For boiling"
-  ],
+    "dateModified": "2022-08-22"
+  },
+  {
+    "idMeal": "016",
+    "strMeal": "Fufu",
+    "strDrinkAlternate": null,
+    "strCategory": "Swallow",
+    "strArea": "Nigerian",
+    "strInstructions": ["Peel, wash, and cut cassava and plantains into chunks.", "Place in a pot, add water to cover, and boil until very tender.", "Drain the water completely.", "Transfer the cooked cassava and plantain to a mortar.", "Pound vigorously with a pestle until smooth, sticky, and stretchy. (Alternatively, use a stand mixer with a dough hook).", "While pounding, have an assistant turn the dough continuously for a consistent texture.", "Form into smooth balls and serve immediately with any Nigerian soup."],
+    "strMealThumb": "https://tse1.explicit.bing.net/th/id/OIP.eamR-PYEVmSq74BOMICL0QHaHa?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "strTags": "Swallow, Starchy, Stretchy",
+    "strIngredient": [
+      "Cassava",
+      "Unripe Plantains",
+      "Water"
+    ],
+    "strMeasure": [
+      "1 kg",
+      "2 medium",
+      "For boiling"
+    ],
 
-  "dateModified": "2022-08-22"
-},
-{
-  "idMeal": "017",
-  "strMeal": "Semolina Swallow",
-  "strDrinkAlternate": null,
-  "strCategory": "Swallow",
-  "strArea": "Nigerian",
-  "strInstructions": ["Bring water to a rolling boil in a pot.", "Reduce the heat to low.", "Gradually sprinkle the semolina into the water while stirring constantly with a wooden spoon to prevent lumps from forming.", "Once all the semolina is added and the mixture thickens, increase the heat to medium.", "Continue to turn and knead the dough in the pot for about 3-5 minutes until it becomes smooth and pulls away from the sides of the pot.", "Add a little more water if too thick, or cook longer if too soft.", "Scoop onto a serving plate, form into a smooth mound, and serve with soup."],
-  "strMealThumb": "https://www.example.com/images/semolina-swallow.jpg",
-  "strTags": "Swallow, Wheat, Easy",
-  "strIngredient": [
-    "Semolina",
-    "Water"
-  ],
-  "strMeasure": [
-    "2 cups",
-    "4 cups"
-  ],
+    "dateModified": "2022-08-22"
+  },
+  {
+    "idMeal": "017",
+    "strMeal": "Semolina Swallow",
+    "strDrinkAlternate": null,
+    "strCategory": "Swallow",
+    "strArea": "Nigerian",
+    "strInstructions": ["Bring water to a rolling boil in a pot.", "Reduce the heat to low.", "Gradually sprinkle the semolina into the water while stirring constantly with a wooden spoon to prevent lumps from forming.", "Once all the semolina is added and the mixture thickens, increase the heat to medium.", "Continue to turn and knead the dough in the pot for about 3-5 minutes until it becomes smooth and pulls away from the sides of the pot.", "Add a little more water if too thick, or cook longer if too soft.", "Scoop onto a serving plate, form into a smooth mound, and serve with soup."],
+    "strMealThumb": "https://tse2.mm.bing.net/th/id/OIP.E7bjjQ3YjXBOjWDh_mSyNgHaEK?cb=thfvnext&w=1200&h=675&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "strTags": "Swallow, Wheat, Easy",
+    "strIngredient": [
+      "Semolina",
+      "Water"
+    ],
+    "strMeasure": [
+      "2 cups",
+      "4 cups"
+    ],
 
-  "dateModified": "2022-08-22"
-},
-{
-  "idMeal": "018",
-  "strMeal": "Semovita",
-  "strDrinkAlternate": null,
-  "strCategory": "Swallow",
-  "strArea": "Nigerian",
-  "strInstructions": ["Bring water to a boil in a pot.", "In a separate bowl, mix 1 cup of Semovita with 1.5 cups of cold water to form a smooth paste (this prevents lumps).", "Pour the Semovita paste into the boiling water.", "Stir continuously with a wooden spoon. It will begin to thicken quickly.", "Reduce the heat and continue to knead and turn the dough in the pot for about 3-5 minutes until smooth and non-sticky.", "If too hard, add a little hot water; if too soft, cook a bit longer.", "Scoop onto a plate, form a smooth ball, and serve with soup."],
-  "strMealThumb": "https://www.example.com/images/semovita.jpg",
-  "strTags": "Swallow, Wheat, Commercial",
-  "strIngredient": [
-    "Semovita",
-    "Cold Water",
-    "Boiling Water"
-  ],
-  "strMeasure": [
-    "2 cups",
-    "3 cups",
-    "1 cup"
-  ],
+    "dateModified": "2022-08-22"
+  },
+  {
+    "idMeal": "018",
+    "strMeal": "Semovita",
+    "strDrinkAlternate": null,
+    "strCategory": "Swallow",
+    "strArea": "Nigerian",
+    "strInstructions": ["Bring water to a boil in a pot.", "In a separate bowl, mix 1 cup of Semovita with 1.5 cups of cold water to form a smooth paste (this prevents lumps).", "Pour the Semovita paste into the boiling water.", "Stir continuously with a wooden spoon. It will begin to thicken quickly.", "Reduce the heat and continue to knead and turn the dough in the pot for about 3-5 minutes until smooth and non-sticky.", "If too hard, add a little hot water; if too soft, cook a bit longer.", "Scoop onto a plate, form a smooth ball, and serve with soup."],
+    "strMealThumb": "https://thfvnext.bing.com/th/id/OIP.CyhozahrVHKBlDx2zHLkWwHaFk?o=7&cb=thfvnextrm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "strTags": "Swallow, Wheat, Commercial",
+    "strIngredient": [
+      "Semovita",
+      "Cold Water",
+      "Boiling Water"
+    ],
+    "strMeasure": [
+      "2 cups",
+      "3 cups",
+      "1 cup"
+    ],
 
-  "dateModified": "2022-08-22"
-},
-{
-  "idMeal": "019",
-  "strMeal": "Starch (Usi)",
-  "strDrinkAlternate": null,
-  "strCategory": "Swallow",
-  "strArea": "Nigerian",
-  "strInstructions": ["Dissolve the cassava starch in 1 cup of cold water to form a smooth paste with no lumps.", "Bring the remaining 1.5 cups of water to a boil in a pot.", "Once boiling, reduce the heat to low and gently pour in the starch mixture while stirring vigorously with a wooden spoon.", "The mixture will thicken rapidly and become translucent.", "Continue to stir and knead the dough in the pot for about 5-7 minutes until it becomes smooth, stretchy, and slightly elastic.", "Scoop onto a plate, form a smooth ball, and serve immediately with Banga Soup."],
-  "strMealThumb": "https://www.example.com/images/starch.jpg",
-  "strTags": "Swallow, Delta, Stretchy",
-  "strIngredient": [
-    "Cassava Starch",
-    "Cold Water",
-    "Water"
-  ],
-  "strMeasure": [
-    "2 cups",
-    "1 cup",
-    "1.5 cups"
-  ],
+    "dateModified": "2022-08-22"
+  },
+  {
+    "idMeal": "019",
+    "strMeal": "Starch (Usi)",
+    "strDrinkAlternate": null,
+    "strCategory": "Swallow",
+    "strArea": "Nigerian",
+    "strInstructions": ["Dissolve the cassava starch in 1 cup of cold water to form a smooth paste with no lumps.", "Bring the remaining 1.5 cups of water to a boil in a pot.", "Once boiling, reduce the heat to low and gently pour in the starch mixture while stirring vigorously with a wooden spoon.", "The mixture will thicken rapidly and become translucent.", "Continue to stir and knead the dough in the pot for about 5-7 minutes until it becomes smooth, stretchy, and slightly elastic.", "Scoop onto a plate, form a smooth ball, and serve immediately with Banga Soup."],
+    "strMealThumb": "https://healthguide.ng/wp-content/uploads/2023/03/images-2-2.jpeg",
+    "strTags": "Swallow, Delta, Stretchy",
+    "strIngredient": [
+      "Cassava Starch",
+      "Cold Water",
+      "Water"
+    ],
+    "strMeasure": [
+      "2 cups",
+      "1 cup",
+      "1.5 cups"
+    ],
 
-  "dateModified": "2022-08-22"
-},
-{
-  "idMeal": "020",
-  "strMeal": "Amala",
-  "strDrinkAlternate": null,
-  "strCategory": "Swallow",
-  "strArea": "Nigerian",
-  "strInstructions": ["Bring water to a rolling boil in a pot.", "Reduce the heat to low.", "Gradually add the yam flour (elubo) to the water, sprinkling it in small amounts.", "Stir constantly and vigorously with a wooden spoon to prevent lumps from forming.", "As the mixture thickens, continue to turn and knead it in the pot.", "Add small amounts of hot water if needed, then cover the pot to cook for 2-3 minutes (this is called 'steaming').", "Uncover and knead again until the dough is smooth and has a consistent dark brown or black color.", "Serve hot with ewedu, gbegiri, or any preferred soup."],
-  "strMealThumb": "https://www.example.com/images/amala.jpg",
-  "strTags": "Swallow, Yoruba, Brown",
-  "strIngredient": [
-    "Yam Flour (Elubo)",
-    "Water"
-  ],
-  "strMeasure": [
-    "2 cups",
-    "4 cups"
-  ],
+    "dateModified": "2022-08-22"
+  },
+  {
+    "idMeal": "020",
+    "strMeal": "Amala",
+    "strDrinkAlternate": null,
+    "strCategory": "Swallow",
+    "strArea": "Nigerian",
+    "strInstructions": ["Bring water to a rolling boil in a pot.", "Reduce the heat to low.", "Gradually add the yam flour (elubo) to the water, sprinkling it in small amounts.", "Stir constantly and vigorously with a wooden spoon to prevent lumps from forming.", "As the mixture thickens, continue to turn and knead it in the pot.", "Add small amounts of hot water if needed, then cover the pot to cook for 2-3 minutes (this is called 'steaming').", "Uncover and knead again until the dough is smooth and has a consistent dark brown or black color.", "Serve hot with ewedu, gbegiri, or any preferred soup."],
+    "strMealThumb": "https://tse1.mm.bing.net/th/id/OIP.1V-pw0x8goFKdCD4FL1sDQHaFW?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "strTags": "Swallow, Yoruba, Brown",
+    "strIngredient": [
+      "Yam Flour (Elubo)",
+      "Water"
+    ],
+    "strMeasure": [
+      "2 cups",
+      "4 cups"
+    ],
 
-  "dateModified": "2022-08-22"
-},
-{
-  "idMeal": "021",
-  "strMeal": "Oatmeal Swallow",
-  "strDrinkAlternate": null,
-  "strCategory": "Swallow",
-  "strArea": "Nigerian",
-  "strInstructions": ["Bring water to a boil in a pot.", "In a bowl, mix the oatmeal flour with 1 cup of cold water to form a smooth, lump-free paste.", "Pour the oatmeal paste into the boiling water while stirring continuously.", "Reduce the heat to low. The mixture will begin to thicken quickly.", "Continue to stir and knead the dough in the pot for about 3-5 minutes until it becomes smooth and pulls away from the sides.", "If it's too hard, add a little hot water; if too soft, cook a bit longer.", "Scoop onto a plate, form a smooth ball, and serve with any Nigerian soup."],
-  "strMealThumb": "https://www.example.com/images/oatmeal-swallow.jpg",
-  "strTags": "Swallow, Healthy, Modern",
-  "strIngredient": [
-    "Oatmeal Flour",
-    "Cold Water",
-    "Boiling Water"
-  ],
-  "strMeasure": [
-    "2 cups",
-    "1 cup",
-    "2.5 cups"
-  ],
+    "dateModified": "2022-08-22"
+  },
+  {
+    "idMeal": "021",
+    "strMeal": "Oatmeal Swallow",
+    "strDrinkAlternate": null,
+    "strCategory": "Swallow",
+    "strArea": "Nigerian",
+    "strInstructions": ["Bring water to a boil in a pot.", "In a bowl, mix the oatmeal flour with 1 cup of cold water to form a smooth, lump-free paste.", "Pour the oatmeal paste into the boiling water while stirring continuously.", "Reduce the heat to low. The mixture will begin to thicken quickly.", "Continue to stir and knead the dough in the pot for about 3-5 minutes until it becomes smooth and pulls away from the sides.", "If it's too hard, add a little hot water; if too soft, cook a bit longer.", "Scoop onto a plate, form a smooth ball, and serve with any Nigerian soup."],
+    "strMealThumb": "https://healthguide.ng/wp-content/uploads/2021/06/Screenshot_2021-06-15-19-56-25-92.jpg",
+    "strTags": "Swallow, Healthy, Modern",
+    "strIngredient": [
+      "Oatmeal Flour",
+      "Cold Water",
+      "Boiling Water"
+    ],
+    "strMeasure": [
+      "2 cups",
+      "1 cup",
+      "2.5 cups"
+    ],
 
-  "dateModified": "2022-08-22"
-},
-{
-  "idMeal": "022",
-  "strMeal": "Wheatmeal",
-  "strDrinkAlternate": null,
-  "strCategory": "Swallow",
-  "strArea": "Nigerian",
-  "strInstructions": ["The preparation is identical to Semovita.", "Bring water to a boil in a pot.", "In a separate bowl, mix the wheatmeal with cold water to form a smooth paste.", "Pour the wheatmeal paste into the boiling water while stirring constantly with a wooden spoon.", "Reduce the heat and continue to knead and turn the dough in the pot for about 3-5 minutes until it is smooth and non-sticky.", "Adjust consistency with hot water if needed.", "Scoop onto a plate, form a smooth ball, and serve with soup."],
-  "strMealThumb": "https://www.example.com/images/wheatmeal.jpg",
-  "strTags": "Swallow, Wheat, Versatile",
-  "strIngredient": [
-    "Wheatmeal",
-    "Cold Water",
-    "Boiling Water"
-  ],
-  "strMeasure": [
-    "2 cups",
-    "3 cups",
-    "1 cup"
-  ],
+    "dateModified": "2022-08-22"
+  },
+  {
+    "idMeal": "022",
+    "strMeal": "Wheatmeal",
+    "strDrinkAlternate": null,
+    "strCategory": "Swallow",
+    "strArea": "Nigerian",
+    "strInstructions": ["The preparation is identical to Semovita.", "Bring water to a boil in a pot.", "In a separate bowl, mix the wheatmeal with cold water to form a smooth paste.", "Pour the wheatmeal paste into the boiling water while stirring constantly with a wooden spoon.", "Reduce the heat and continue to knead and turn the dough in the pot for about 3-5 minutes until it is smooth and non-sticky.", "Adjust consistency with hot water if needed.", "Scoop onto a plate, form a smooth ball, and serve with soup."],
+    "strMealThumb": "https://tse4.mm.bing.net/th/id/OIP.PGFh-GrIlcs25e3iJQYVrAHaFs?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "strTags": "Swallow, Wheat, Versatile",
+    "strIngredient": [
+      "Wheatmeal",
+      "Cold Water",
+      "Boiling Water"
+    ],
+    "strMeasure": [
+      "2 cups",
+      "3 cups",
+      "1 cup"
+    ],
 
-  "dateModified": "2022-08-22"
-},
-{
-  "idMeal": "023",
-  "strMeal": "Tuwo Shinkafa",
-  "strDrinkAlternate": null,
-  "strCategory": "Swallow",
-  "strArea": "Nigerian",
-  "strInstructions": ["Rinse the short-grain rice thoroughly.", "Place in a pot, add water to just below the level of the rice, and cook until extremely soft and mushy. Add more water during cooking if necessary.", "Once the rice is soft enough to crush with your fingers, reduce the heat to low.", "Begin to mash the rice vigorously with a wooden spoon or a 'murguna' (mashing stick) until it becomes a very thick, smooth, and stretchy paste.", "Continue to knead and turn the dough in the pot for another 5 minutes to achieve the right consistency.", "Wet a small bowl or an ice cream scoop with cold water, scoop the tuwo, and form into a smooth ball or mound on a serving plate.", "Serve immediately with Miyan Kuka, Miyan Taushe, or any Hausa soup."],
-  "strMealThumb": "https://www.example.com/images/tuwo-shinkafa.jpg",
-  "strTags": "Swallow, Northern, Rice",
-  "strIngredient": [
-    "Short-Grain Rice (Tuwon Shinkafa Rice)",
-    "Water"
-  ],
-  "strMeasure": [
-    "4 cups",
-    "For boiling"
-  ],
+    "dateModified": "2022-08-22"
+  },
+  {
+    "idMeal": "023",
+    "strMeal": "Tuwo Shinkafa",
+    "strDrinkAlternate": null,
+    "strCategory": "Swallow",
+    "strArea": "Nigerian",
+    "strInstructions": ["Rinse the short-grain rice thoroughly.", "Place in a pot, add water to just below the level of the rice, and cook until extremely soft and mushy. Add more water during cooking if necessary.", "Once the rice is soft enough to crush with your fingers, reduce the heat to low.", "Begin to mash the rice vigorously with a wooden spoon or a 'murguna' (mashing stick) until it becomes a very thick, smooth, and stretchy paste.", "Continue to knead and turn the dough in the pot for another 5 minutes to achieve the right consistency.", "Wet a small bowl or an ice cream scoop with cold water, scoop the tuwo, and form into a smooth ball or mound on a serving plate.", "Serve immediately with Miyan Kuka, Miyan Taushe, or any Hausa soup."],
+    "strMealThumb": "https://tse2.mm.bing.net/th/id/OIP.ksruFitcklq5jdwGVZEh7QAAAA?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "strTags": "Swallow, Northern, Rice",
+    "strIngredient": [
+      "Short-Grain Rice (Tuwon Shinkafa Rice)",
+      "Water"
+    ],
+    "strMeasure": [
+      "4 cups",
+      "For boiling"
+    ],
 
-  "dateModified": "2022-08-22"
-},
-
+    "dateModified": "2022-08-22"
+  },
   {
     "idMeal": "024",
     "strMeal": "Yam Porridge (Asaro)",
@@ -785,7 +782,7 @@
       "Let it simmer for another 3-5 minutes until the leaves are wilted and the porridge is well combined.",
       "Serve hot in a bowl."
     ],
-    "strMealThumb": "https://www.example.com/images/yam-porridge.jpg",
+    "strMealThumb": "https://tse2.mm.bing.net/th/id/OIP.LxaVxQVuNhZ2E2xd3d2qwQHaEK?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
     "strTags": "Yam, One-Pot, Comfort Food",
 
     "strIngredient": [
@@ -828,7 +825,7 @@
       "Remove with a slotted spoon and drain on paper towels.",
       "Serve hot with fried egg, stew, or pepper sauce."
     ],
-    "strMealThumb": "https://www.example.com/images/fried-yam.jpg",
+    "strMealThumb": "https://tse3.mm.bing.net/th/id/OIP.TYrpqfhXiuFGDFCjDrRgtgHaE8?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
     "strTags": "Yam, Snack, Fried",
 
     "strIngredient": [
@@ -858,7 +855,7 @@
       "Drain the water completely from the pot.",
       "Serve hot with a side of red stew (tomato stew), palm oil sauce (with utazi and onions), or fried eggs."
     ],
-    "strMealThumb": "https://www.example.com/images/boiled-yam.jpg",
+    "strMealThumb": "https://www.caribbeanlife.com/wp-content/uploads/2022/10/boil-and-fry-yam-2022-10-20-cdlr-cl06.jpg",
     "strTags": "Yam, Breakfast, Simple",
 
     "strIngredient": [
@@ -876,7 +873,7 @@
   },
   {
     "idMeal": "027",
-    "strMeal": "Pottage",
+    "strMeal": "Beans Pottage",
     "strDrinkAlternate": null,
     "strCategory": "Main",
     "strArea": "Nigerian",
@@ -890,9 +887,8 @@
       "Continue cooking until everything is tender and the liquid has thickened into a stew-like consistency.",
       "Stir gently to combine and serve hot."
     ],
-    "strMealThumb": "https://www.tinuolasblog.com/wp-content/uploads/2020/06/yam-pottage-recipe.jpg",
+    "strMealThumb": "https://dolapogrey.com/wp-content/uploads/2020/06/RA-0E9GST_IMG_20180301_151904_314.jpg",
     "strTags": "One-Pot, Versatile, Comfort Food",
-
     "strIngredient": [
       "Palm Oil",
       "Onions",
@@ -913,7 +909,6 @@
       "to taste",
       "3 cups"
     ],
-    
     "dateModified": "2022-08-22"
   },
   {
@@ -930,7 +925,7 @@
       "Garnish with the fried fish and stockfish.",
       "Serve immediately, often as an appetizer or side dish."
     ],
-    "strMealThumb": "https://cheflolaskitchen.com/wp-content/uploads/2021/03/Abacha-06-500x500.jpg",
+    "strMealThumb": "https://tse1.mm.bing.net/th/id/OIP.cz87FsyjEtwTzqR2z3FmGwHaEo?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
     "strTags": "Igbo, Salad, Cassava",
 
     "strIngredient": [
@@ -979,9 +974,8 @@
       "Sun-dry again for a few more hours until the coating is dry and firm.",
       "Kilishi can be eaten as is or lightly toasted over a flame before serving."
     ],
-    "strMealThumb": "https://guardian.ng/wp-content/uploads/2022/01/Kilishi.jpg",
+    "strMealThumb": "https://www.nairaland.com/attachments/16321332_fbimg1665757729305_jpeg9a320663abb017ac5407560041a19c18",
     "strTags": "Northern, Jerky, Spicy",
-
     "strIngredient": [
       "Lean Beef or Goat Meat",
       "Groundnut Powder",
@@ -1004,7 +998,6 @@
       "to taste",
       "2 tbsp"
     ],
-    
     "dateModified": "2022-08-22"
   },
   {
@@ -1023,9 +1016,8 @@
       "Remove with a slotted spoon and drain on paper towels.",
       "Serve hot or warm."
     ],
-    "strMealThumb": "https://cheflolaskitchen.com/wp-content/uploads/2015/09/Puff-puff-10-500x500.jpg",
+    "strMealThumb": "https://tse1.explicit.bing.net/th/id/OIP.gDKBkt3arFpUr1clD1vdPQHaHa?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
     "strTags": "Sweet, Fried, Dough",
-
     "strIngredient": [
       "All-Purpose Flour",
       "Granulated Sugar",
@@ -1044,7 +1036,6 @@
       "1/4 tsp",
       "For deep frying"
     ],
-    
     "dateModified": "2022-08-22"
   },
   {
@@ -1062,9 +1053,8 @@
       "Peel off the charred skin.",
       "Serve hot with roasted groundnuts (peanuts), pepper sauce, or fish."
     ],
-    "strMealThumb": "https://www.myactivekitchen.com/wp-content/uploads/2015/06/boli-and-groundnut.jpg",
+    "strMealThumb": "https://tse2.mm.bing.net/th/id/OIP.TMQU_WbcyfZ8SIu0Yw4LBAAAAA?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
     "strTags": "Street Food, Grilled, Plantain",
-
     "strIngredient": [
       "Unripe Plantains",
       "Groundnuts (for serving)",
@@ -1075,7 +1065,6 @@
       "1 cup",
       "1/2 cup"
     ],
-    
     "dateModified": "2022-08-22"
   },
   {
@@ -1093,7 +1082,7 @@
       "Sprinkle with a pinch of salt if desired.",
       "Serve as a side with rice dishes, stews, or alone as a snack."
     ],
-    "strMealThumb": "https://www.preciouscore.com/wp-content/uploads/2018/06/Fried-Plantains.jpg",
+    "strMealThumb": "https://tse2.mm.bing.net/th/id/OIP.pMkdHJID_NUmvVDx1F5p4gHaHa?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
     "strTags": "Side, Sweet, Fried",
 
     "strIngredient": [
@@ -1126,9 +1115,8 @@
       "Remove with a slotted spoon and drain on paper towels.",
       "Serve hot with pap (ogi), bread, or alone."
     ],
-    "strMealThumb": "https://sisijemimah.com/wp-content/uploads/2015/08/Akara.jpg",
+    "strMealThumb": "https://tse1.explicit.bing.net/th/id/OIP.zN-dvNJSb2VW7w8eYP0L2gHaEK?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
     "strTags": "Breakfast, Fried, Beans",
-
     "strIngredient": [
       "Black-eyed Peas",
       "Habanero Pepper",
@@ -1147,7 +1135,6 @@
       "to taste",
       "As needed"
     ],
-    
     "dateModified": "2022-08-22"
   },
   {
@@ -1166,7 +1153,7 @@
       "Gently place the wrapped eggs in the oil and fry, turning frequently, until golden brown and cooked through (about 10-12 minutes).",
       "Drain on paper towels and serve warm."
     ],
-    "strMealThumb": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/nigerian-egg-roll.jpg",
+    "strMealThumb": "https://tse2.mm.bing.net/th/id/OIP.1dpYXTG8SySG_arP-r3qUAHaE7?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
     "strTags": "Street Food, Snack, Fried",
 
     "strIngredient": [
@@ -1210,7 +1197,7 @@
       "Bake for 25-35 minutes until golden brown.",
       "Let cool before serving."
     ],
-    "strMealThumb": "https://cheflolaskitchen.com/wp-content/uploads/2019/08/Nigerian-Meat-Pie.jpg",
+    "strMealThumb": "https://tse3.mm.bing.net/th/id/OIP.pAgj8ep-GtPi-goTlHfbywHaFj?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
     "strTags": "Baked, Pastry, Snack",
 
     "strIngredient": [
@@ -1239,7 +1226,6 @@
       "to taste",
       "1"
     ],
-    
     "dateModified": "2022-08-22"
   },
   {
@@ -1257,7 +1243,7 @@
       "Bake in a preheated oven at 350°F (180°C) for 25-30 minutes until golden brown.",
       "Serve warm or cold."
     ],
-    "strMealThumb": "https://www.myactivekitchen.com/wp-content/uploads/2015/02/nigerian-sausage-roll.jpg",
+    "strMealThumb": "https://th.bing.com/th/id/R.ca931ccaffaf50d9bcf61c61e26cd0f3?rik=0rgYpbDssLJ1OA&riu=http%3a%2f%2fwww.allnigerianrecipes.com%2fimages%2fsausage-roll.png&ehk=63aZFun3nG0WzDX1mdNEWKtyQuOvjxIX%2bIyTijbdej0%3d&risl=&pid=ImgRaw&r=0",
     "strTags": "Baked, Pastry, Snack",
 
     "strIngredient": [
@@ -1294,9 +1280,8 @@
       "Chop the spring onions and stir in. Cook for another 2 minutes.",
       "Serve hot as a snack or appetizer, often with toothpicks."
     ],
-    "strMealThumb": "https://cheflolaskitchen.com/wp-content/uploads/2021/07/Asun-03-500x500.jpg",
+    "strMealThumb": "https://tse1.mm.bing.net/th/id/OIP.iFfLBsaVwL_hc7OyJR3jAQHaHa?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
     "strTags": "Spicy, Yoruba, Appetizer",
-
     "strIngredient": [
       "Goat Meat",
       "Habanero Pepper",
@@ -1317,7 +1302,6 @@
       "to taste",
       "3 stalks"
     ],
-    
     "dateModified": "2022-08-22"
   }
   ]

@@ -59,6 +59,7 @@ const homeLink = document.getElementById('home-link');
 const searchLink = document.getElementById('search-link');
 const favoritesLink = document.getElementById('favorites-link');
 const submitRecipeLink = document.getElementById('submit-recipe-link');
+const foodRecipeLink = document.getElementById('food-recipe-link');
 const mobileHomeLink = document.getElementById('mobile-home-link');
 const mobileSearchLink = document.getElementById('mobile-search-link');
 const mobileFavoritesLink = document.getElementById('mobile-favorites-link');
@@ -88,6 +89,7 @@ function setupEventListeners() {
     searchLink.addEventListener('click', showSearchPage);
     favoritesLink.addEventListener('click', showFavoritesPage);
     submitRecipeLink.addEventListener('click', showSubmitRecipeModal);
+    foodRecipeLink.addEventListener('click', showHomePage);
     mobileHomeLink.addEventListener('click', showHomePage);
     mobileSearchLink.addEventListener('click', showSearchPage);
     mobileFavoritesLink.addEventListener('click', showFavoritesPage);
