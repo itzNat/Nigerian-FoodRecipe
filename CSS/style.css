@@ -14,7 +14,7 @@ h6 {
 }
 
 .home-section {
-  background-image: url('./recipeBg.jpg');
+  background-image: url('./../recipeBg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -140,7 +140,7 @@ h6 {
 /* .form-input:invalid {
         border-color: #dc3545;
     } */
-     
+
 .pagination-btn {
   transition: all 0.3s ease;
 }
