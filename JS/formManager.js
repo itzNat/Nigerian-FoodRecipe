@@ -1,7 +1,7 @@
 export function addIngredientField(container) {
     const count = container.children.length + 1;
     const newRow = document.createElement('div');
-    newRow.className = 'ingredient-row flex md:flex-row flex-col gap-2 mb-2';
+    newRow.className = 'ingredient-row flex gap-2 mb-2';
     newRow.innerHTML = `
         <input type="text" class="ingredient-measure flex-1 px-4 py-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-[#FF7F50]" placeholder="Measure (e.g., 1 cup)">
         <input type="text" class="ingredient-name flex-2 px-4 py-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-[#FF7F50] form-input" placeholder="Ingredient name" required>
