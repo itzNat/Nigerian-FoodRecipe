@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FoodRecipe - Recipe Project</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Inter:wght@300;400;500&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="./CSS/style.css">
+</head>
+
+<body class="min-h-screen">
+  <!-- Navigation -->
+  <nav class="fixed top-0 left-0 right-0 bg-white shadow-sm z-50">
+    <div class="container mx-auto px-4 py-3 flex justify-between items-center">
+      <div class="flex items-center">
+        <a href="#" class="text-2xl font-bold text-[#FF7F50]" id="mobile-home-link">FoodRecipe</a>
+      </div>
+      <div class="hidden md:flex space-x-8">
+        <a href="#" class="text-gray-700 hover:text-[#FF7F50] transition" id="home-link">Home</a>
+        <a href="#" class="text-gray-700 hover:text-[#FF7F50] transition" id="search-link">Search</a>
+        <a href="#" class="text-gray-700 hover:text-[#FF7F50] transition" id="favorites-link">Favorites</a>
+        <a href="#" class="text-gray-700 hover:text-[#FF7F50] transition" id="submit-recipe-link">Submit Recipe</a>
+      </div>
+      <div class="flex items-center">
+        <div class="w-10 h-10 rounded-full bg-gray-200 flex items-center justify-center cursor-pointer">
+          <i class="fas fa-cutlery text-gray-600"></i>
+        </div>
+        <button class="md:hidden ml-4 text-gray-700" id="mobile-menu-button">
+          <i class="fas fa-bars text-xl"></i>
+        </button>
+      </div>
+    </div>
+    <!-- Mobile menu -->
+    <div class="md:hidden bg-white shadow-lg hidden" id="mobile-menu">
+      <div class="px-4 py-2 flex flex-col space-y-3">
+        <a href="#" class="text-gray-700 hover:text-[#FF7F50] transition py-2" id="mobile-home-link">Home</a>
+        <a href="#" class="text-gray-700 hover:text-[#FF7F50] transition py-2" id="mobile-search-link">Search</a>
+        <a href="#" class="text-gray-700 hover:text-[#FF7F50] transition py-2" id="mobile-favorites-link">Favorites</a>
+        <a href="#" class="text-gray-700 hover:text-[#FF7F50] transition py-2" id="mobile-submit-recipe-link">Submit
+          Recipe</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <main class="pt-5">
+    <!-- Homepage -->
+    <section id="homepage" class="home-section relative h-screen flex items-center justify-center">
+      <div class="hero-overlay absolute inset-0"></div>
+      <div class="relative z-10 text-center px-4 max-w-4xl mx-auto">
+        <h1 class="text-4xl md:text-6xl font-bold text-white mb-6">Discover Your Next Favorite Meal</h1>
+        <div class="search-bar bg-white rounded-full p-1 shadow-lg mx-auto max-w-2xl">
+          <div class="flex items-center">
+            <input type="text" placeholder="Search for recipes..."
+              class="flex-grow px-6 py-4 rounded-full focus:outline-none text-gray-700" id="hero-search-input">
+            <button class="bg-[#FF7F50] text-white rounded-full px-6 py-4 font-medium hover:bg-[#e67347] transition"
+              id="hero-search-btn">
+              Search Recipes
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Search Page -->
+    <section id="search-page" class="hidden py-12">
+      <div class="container mx-auto px-4">
+        <div class="sticky top-16 bg-white py-4 z-40 shadow-md rounded-lg">
+          <div class="flex items-center max-w-3xl mx-auto">
+            <input type="text" placeholder="Search for recipes..." id="search-input"
+              class="flex-grow px-6 py-3 rounded-l-full border border-gray-300 focus:outline-none  focus:border-[#FF7F50] ">
+            <button
+              class="bg-[#FF7F50] h-[50px] flex items-center text-white px-6 rounded-r-full hover:bg-[#e67347] transition"
+              id="search-btn">
+              <i class="fas fa-search"></i>
+            </button>
+          </div>
+        </div>
+
+        <div id="search-results" class="mt-8">
+          <!-- Recipes will be loaded here -->
+        </div>
+
+        <!-- Pagination -->
+        <div id="pagination" class="flex justify-center mt-8 space-x-2 hidden">
+          <button id="prev-page"
+            class="pagination-btn bg-gray-200 text-gray-700 px-4 py-2 rounded disabled:opacity-50 disabled:cursor-not-allowed">
+            <i class="fas fa-chevron-left"></i>
+          </button>
+          <div id="page-numbers" class="flex space-x-2"></div>
+          <button id="next-page"
+            class="pagination-btn bg-gray-200 text-gray-700 px-4 py-2 rounded disabled:opacity-50 disabled:cursor-not-allowed">
+            <i class="fas fa-chevron-right"></i>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Favorites Page -->
+    <section id="favorites-page" class="hidden py-12">
+      <div class="container mx-auto px-4">
+        <h2 class="text-3xl font-bold mb-8 text-center">Your Favorite Recipes</h2>
+        <div id="favorites-results">
+          <!-- Favorites will be loaded here -->
+        </div>
+        <div id="no-favorites" class="text-center py-12">
+          <i class="fas fa-heart text-5xl text-gray-300 mb-4"></i>
+          <h3 class="text-xl text-gray-500">Your recipe book is empty. Start exploring!</h3>
+          <button class="mt-4 bg-[#FF7F50] text-white px-6 py-3 rounded-full hover:bg-[#e67347] transition"
+            id="explore-btn">
+            Explore Recipes
+          </button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Recipe Detail Modal -->
+  <div id="recipe-detail-modal"
+    class="modal fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+    <div class="bg-white rounded-lg shadow-xl max-w-4xl w-full mx-4 overflow-hidden">
+      <div class="flex justify-between items-center bg-[#FF7F50] text-white px-6 py-4">
+        <h3 class="text-xl font-bold" id="recipe-modal-title">Recipe Details</h3>
+        <button id="close-recipe-modal" class="text-white hover:text-gray-200">
+          <i class="fas fa-times"></i>
+        </button>
+      </div>
+      <div class="recipe-modal-content p-6">
+        <div id="recipe-detail-content"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Submit Recipe Modal -->
+  <div id="submit-recipe-modal" class="modal fixed inset-0 bg-black bg-opacity-50 flex py-3 justify-center z-50">
+    <div class="bg-white rounded-lg shadow-xl max-w-2xl w-full mx-4 max-h-fit overflow-y-auto">
+      <div class="flex justify-between items-center bg-[#FF7F50] text-white px-6 py-4">
+        <h3 class="text-xl font-bold">Submit Your Recipe</h3>
+        <button id="close-modal" class="text-white hover:text-gray-200">
+          <i class="fas fa-times"></i>
+        </button>
+      </div>
+      <form id="recipe-form" class="p-6">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+          <div>
+            <label for="recipe-name" class="block text-gray-700 mb-2">Recipe Name *</label>
+            <input type="text" id="recipe-name"
+              class="w-full px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-[#FF7F50] form-input"
+              required>
+            <div class="text-red-500 text-sm mt-1 hidden">This field is required</div>
+          </div>
+          <div>
+            <label for="image-url" class="block text-gray-700 mb-2">Image URL *</label>
+            <input type="url" id="image-url"
+              class="w-full px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-[#FF7F50] form-input"
+              required>
+            <div class="text-red-500 text-sm mt-1 hidden">This field is required</div>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+          <div>
+            <label for="category" class="block text-gray-700 mb-2">Category *</label>
+            <select id="category"
+              class="w-full px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-[#FF7F50] form-input"
+              required>
+              <option value="">Select a category</option>
+              <option value="Main Course">Main Course</option>
+              <option value="Side">Side</option>
+              <option value="Snack">Snack</option>
+              <option value="Soup">Soup</option>
+              <option value="Swallow">Swallow</option>
+            </select>
+            <div class="text-red-500 text-sm mt-1 hidden">This field is required</div>
+          </div>
+          <div>
+            <label for="area" class="block text-gray-700 mb-2">Cuisine/Area *</label>
+            <input type="text" id="area"
+              class="w-full px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-[#FF7F50] form-input"
+              placeholder="e.g., American, Nigerian" required>
+            <div class="text-red-500 text-sm mt-1 hidden">This field is required</div>
+          </div>
+        </div>
+
+        <div class="mb-4">
+          <label for="tags" class="block text-gray-700 mb-2">Tags (comma separated)</label>
+          <input type="text" id="tags"
+            class="w-full px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-[#FF7F50]"
+            placeholder="e.g., Swallow, Traditional">
+        </div>
+
+        <div class="mb-4">
+          <label class="block text-gray-700 mb-2">Ingredients *</label>
+          <div id="ingredients-container">
+            <div class="ingredient-row flex gap-2 mb-2">
+              <input type="text"
+                class="ingredient-measure flex-1 px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-[#FF7F50]"
+                placeholder="Measure (e.g., 1 cup)">
+              <input type="text"
+                class="ingredient-name flex-2 px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-[#FF7F50] form-input"
+                placeholder="Ingredient name" required>
+              <button type="button" class="remove-ingredient bg-red-500 text-white px-3 rounded hover:bg-red-600"
+                style="display: none;">
+                <i class="fas fa-times"></i>
+              </button>
+            </div>
+          </div>
+          <div class="text-red-500 text-sm mt-1 hidden" id="ingredients-error">At least one ingredient is required</div>
+          <button type="button" id="add-ingredient" class="mt-2 text-[#FF7F50] hover:text-[#e67347]">
+            <i class="fas fa-plus mr-1"></i> Add Another Ingredient
+          </button>
+        </div>
+
+        <div class="mb-4">
+          <label class="block text-gray-700 mb-2">Instructions *</label>
+          <div id="instructions-container">
+            <div class="instruction-row flex gap-2 mb-2">
+              <span
+                class="bg-[#FF7F50] text-white rounded-full w-6 h-6 flex items-center justify-center mt-2 flex-shrink-0">1</span>
+              <textarea
+                class="instruction-step w-full px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-[#FF7F50] form-input"
+                rows="2" placeholder="Instruction step" required></textarea>
+              <button type="button"
+                class="remove-instruction bg-red-500 text-white px-3 rounded hover:bg-red-600 self-start mt-2"
+                style="display: none;">
+                <i class="fas fa-times"></i>
+              </button>
+            </div>
+          </div>
+          <div class="text-red-500 text-sm mt-1 hidden" id="instructions-error">At least one instruction is required
+          </div>
+          <button type="button" id="add-instruction" class="mt-2 text-[#FF7F50] hover:text-[#e67347]">
+            <i class="fas fa-plus mr-1"></i> Add Another Step
+          </button>
+        </div>
+
+        <div class="flex justify-end">
+          <button type="button" id="cancel-form"
+            class="px-4 py-2 text-gray-700 mr-2 rounded hover:bg-gray-100">Cancel</button>
+          <button type="submit"
+            class="bg-[#FF7F50] text-white px-6 py-2 rounded hover:bg-[#e67347] transition">Submit</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Success Message -->
+  <div id="success-message"
+    class="fixed bottom-4 right-4 bg-green-500 text-white px-6 py-3 rounded-lg shadow-lg hidden z-50">
+    <div class="flex items-center">
+      <i class="fas fa-check-circle mr-2"></i>
+      <span>Recipe submitted successfully!</span>
+    </div>
+  </div>
+
+  <script type="module" src="./JS/main.js"></script>
+</body>
+
+</html>
